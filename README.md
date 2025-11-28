@@ -13,7 +13,8 @@ These assets will be used to create a larger scene with some detail.
 These settings will apply high-quality shadows and lighting to the world.
 
 <h1>VIDEO</h1>
-You may find the video <a href = "">Here</a>, and clicking on the file  named "".
+You may find the video <a href = "https://github.com/JeremyRoalef/CITA_417_TPA_Foundations/releases/tag/V2.0">Here</a>, and clicking on the file  named "2025-11-28.17-32-01.mkv
+".
 
 <h1>RESULTS</h1>
 Here is a simple table illustrating the performance difference between the optimized world and unoptimized world:

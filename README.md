@@ -37,11 +37,10 @@ This setup will produce a high-quality scene with very poor performance. To illu
   <ul>Lower triangle counts</ul>
   Take notice to the FPS increase from the unoptimized setup. On the GPU statistics page, notice how the GPU calles for the items listed earlier no longer show up. That is because their GPU calls have been reduced significantly, and other items are calling the GPU more now.
   <br><br>
-  You may find the video <a href = "">Here </a>
+  You may find the video <a href = "https://github.com/JeremyRoalef/CITA_417_TPA_Foundations/releases/tag/V1.0">Here</a>, and clicking on the file named "2025-11-22.20-29-53.mkv
+"
 </p>
 
-
-You may find the video <a href = "">Here </a>
 <h1>RESULTS</h1>
 Here is a simple table illustrating the performance difference between the optimized world and unoptimized world:
 <img width="2101" height="240" alt="image" src="https://github.com/user-attachments/assets/e1f7d4e1-ce5c-4e3c-a7ce-730adf448834" />

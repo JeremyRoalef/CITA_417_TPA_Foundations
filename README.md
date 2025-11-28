@@ -17,3 +17,5 @@ You may find the video <a href = "">Here</a>, and clicking on the file  named ""
 
 <h1>RESULTS</h1>
 Here is a simple table illustrating the performance difference between the optimized world and unoptimized world:
+<img width="1090" height="118" alt="image" src="https://github.com/user-attachments/assets/3b9e5219-58f9-4842-93fa-50d96a653301" />
+You may notice that there was no perceivable difference in frame rate from the optimized and unoptimized world. The FPS value was 60 in each scenario. This is likely due to a frame rate cap set at 60 for the game. The actual time it took to render the frame, the ms category, shows that it took less time to render the optimized world (15.57ms) than the unoptimized world (16.66ms).

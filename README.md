@@ -21,6 +21,6 @@ Below, you may find the blueprint for BP_NiagaraFX:
 <h1>VIDEO</h1>
 The video illustrates how performance-intensive running hundreds of particle systems every second can be on computers. Especially when not using a pooled system, the performance drops to <10fps. Comparatively, running a pooled system may provide upwards of 30fps. However, the performance does drop down to non-pooled framerate on occasion. This frame drop likely does not display the benefits of a pooling system, but rather the cost of running many particle systems at once. It is worth mentioning that the non-pooled system could not achieve any frame rate higher than 10fps, whereas the pooled system was capable of achieving upwards of 30fps. 
 
-You may find the video <a href = "">Here </a>
+You may find the video <a href = "https://github.com/JeremyRoalef/CITA_417_TPA_Foundations/releases/tag/V3.0">Here </a>
 <h1>RESULTS</h1>
 Here is a simple table illustrating the performance difference between the optimized world and unoptimized world:

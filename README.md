@@ -24,4 +24,6 @@ The video illustrates how performance-intensive running hundreds of particle sys
 You may find the video <a href = "https://github.com/JeremyRoalef/CITA_417_TPA_Foundations/releases/tag/V3.0">Here</a>, and clicking on the file named "2025-12-01.20-53-00.mkv
 ".
 <h1>RESULTS</h1>
-Here is a simple table illustrating the performance difference between the optimized world and unoptimized world:
+Here is a simple table illustrating the performance difference between the pooling and non-pooling setup:
+<img width="472" height="137" alt="image" src="https://github.com/user-attachments/assets/24f15cdd-5a07-44c7-9f81-60d0fd78b139" />
+
